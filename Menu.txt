@@ -1,0 +1,9 @@
+Cappuccino, 3.00
+Latte, 3.50
+Espresso, 2.50
+Americano, 2.00
+Mocha, 3.50
+Hot Chocalate, 3.30
+Chai Latte, 3.20
+Ice Tea, 3.00
+Iced Coffee, 3.50
